@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=190&section=header&text=Pethum%20Priyankara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%26%20Mobile%20Computing%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=190&section=header&text=Pethum%20Priyankara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%26%20Mobile%20Computing%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=14&descColor=e2e8f0" width="100%" />
 
   <!-- PROFILE VIEWS COUNTER -->
   <img src="https://komarev.com/ghpvc/?username=PethumPriyankara&style=for-the-badge&color=2563eb&labelColor=1c1917" alt="Profile Views" />
@@ -61,7 +61,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td>
         <ul>
           <li>🔭 Developing AI-based network security monitoring solutions and dashboards.</li>
           <li>🌱 Specializing in <b>Networking and Mobile Computing</b> degree requirements.</li>
@@ -71,9 +71,8 @@
           <li>🤝 Open for <b>IT Internships</b> to collaborate and add real value.</li>
         </ul>
       </td>
-      <td width="40%" align="center" valign="middle">
-        <!-- FIXED FLOATING ROCKET BOT FOR GITHUB -->
-        <img src="https://github.com/user-attachments/assets/b4da89c7-507c-48be-8eb4-9626e2ef309a" width="350" alt="Animated Floating Rocket Bot" />
+      <td>
+        <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif">
       </td>
     </tr>
   </table>
