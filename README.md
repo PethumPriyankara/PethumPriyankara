@@ -1,3 +1,25 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=190&section=header&text=Pethum%20Priyankara&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%26%20Mobile%20Computing%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=13" width="100%" />
+
+  <!-- PROFILE VIEWS COUNTER -->
+  <!-- Username eka oyage real GitHub username ekata maru karanna -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563eb&labelColor=1e293b" alt="Profile Views" />
+  
+  <!-- SOCIAL BADGES -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+   
+   
+   
+   
+   
+   
    Hi there, I'm Pethum Priyankara! 👋
 
 An enthusiastic Undergraduate Student specializing in Networking and Mobile Computing, passionate about Cybersecurity, Cloud Infrastructure, and AI-driven systems.
