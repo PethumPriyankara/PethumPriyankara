@@ -1,9 +1,21 @@
-   
-   Hi there, I'm Pethum Priyankara! 👋
+<!-- HEADER WITH ANIMATED BACKGROUND -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:0f172a&height=220&section=header&text=Pethum%20Priyankara&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Networking%20%26%20Mobile%20Computing%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=14" width="100%" />
+
+  <br />
+
+  <!-- PROFILE VIEWS COUNTER (Change PethumPriyankara to match your exact user case) -->
+  <img src="https://komarev.com/ghpvc/?username=PethumPriyankara&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="Profile Views" />
+</div>
+
+<br />
+
+Hi there, I'm Pethum Priyankara! 👋
 
 An enthusiastic Undergraduate Student specializing in Networking and Mobile Computing, passionate about Cybersecurity, Cloud Infrastructure, and AI-driven systems.
 
 ---
+
 <!-- ABOUT ME SECTION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Networking+%26+Mobile+Computing+Student;Cybersecurity+Enthusiast;Cloud+Explorer+(AWS);AI-Based+NIDS+Developer;Tech+Innovator" alt="Typing SVG" />
@@ -18,10 +30,10 @@ An enthusiastic Undergraduate Student specializing in Networking and Mobile Comp
 
 ---
 
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
+| :--- | :--- |
 | **Frontend** | React, TypeScript, HTML5, CSS3 |
 | **Backend & Automation** | Python, Node.js |
 | **Cloud & DevOps** | AWS (EC2, RDS, CloudWatch, Pricing Calculator), Git, GitHub |
@@ -31,24 +43,9 @@ An enthusiastic Undergraduate Student specializing in Networking and Mobile Comp
 
 ### 🚀 Featured Projects
 
-*   **SecureFlow-AI** - An AI-based Network Intrusion Detection System (NIDS) with a modern React & TypeScript dashboard to monitor network traffic and display real-time threat alerts.
-*   **Smart Home Security Monitor** - A Python-based automated network scanner connected to a Telegram bot (`Pethum_Security_bot`) that instantly alerts when new or vulnerable devices connect.
-*   **SmartInventory** - A cloud-hosted inventory system deployed on an Amazon EC2 instance and fully integrated with AWS CloudWatch for performance tracking.
-
----
-
-### 🤝 Connect with Me
-
-
-💼 LinkedIn: pethum-priyankara[cite: 1]
-
-📧 Email: pethumpriyankara143@gmail.com
-
-👥 Facebook: Pethum ketipearachchi
-
-📸 Instagram: @itzz_me_pethum
-
-🐙 GitHub: PethumPriyankara
+* **SecureFlow-AI** - An AI-based Network Intrusion Detection System (NIDS) with a modern React & TypeScript dashboard to monitor network traffic and display real-time threat alerts.
+* **Smart Home Security Monitor** - A Python-based automated network scanner connected to a Telegram bot (`Pethum_Security_bot`) that instantly alerts when new or vulnerable devices connect.
+* **SmartInventory** - A cloud-hosted inventory system deployed on an Amazon EC2 instance and fully integrated with AWS CloudWatch for performance tracking.
 
 ---
 
@@ -73,11 +70,6 @@ Ready to collaborate or talk about network security and cloud deployment? Let's 
 
 ---
 
-<p align="center">
-  <i>"Securing networks, writing clean code, and optimizing the cloud."</i>
-</p>
-
-
 ### Languages and Tools:
 
 <p align="left">
@@ -91,4 +83,10 @@ Ready to collaborate or talk about network security and cloud deployment? Let's 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Securing networks, writing clean code, and optimizing the cloud."</i>
 </p>
