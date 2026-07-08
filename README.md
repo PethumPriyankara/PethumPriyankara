@@ -44,6 +44,33 @@ An enthusiastic Undergraduate Student specializing in Networking and Mobile Comp
 
 🐙 GitHub: PethumPriyankara
 
+---
+
+### 🤝 Connect with Me
+
+Ready to collaborate or talk about network security and cloud deployment? Let's connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/pethum-priyankara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pethumpriyankara143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/share/1LhZjnyw45/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/itzz_me_pethum?igsh=bW04NTB2NWI4OHg3" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Securing networks, writing clean code, and optimizing the cloud."</i>
+</p>
+
 
 ### Languages and Tools:
 
