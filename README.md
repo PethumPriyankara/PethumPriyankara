@@ -4,6 +4,10 @@
 An enthusiastic Undergraduate Student specializing in Networking and Mobile Computing, passionate about Cybersecurity, Cloud Infrastructure, and AI-driven systems.
 
 ---
+<!-- ABOUT ME SECTION -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Networking+%26+Mobile+Computing+Student;Cybersecurity+Enthusiast;Cloud+Explorer+(AWS);AI-Based+NIDS+Developer;Tech+Innovator" alt="Typing SVG" />
+</div>
 
 ### 💻 About Me
 
@@ -13,12 +17,7 @@ An enthusiastic Undergraduate Student specializing in Networking and Mobile Comp
 - ⚙️ **Current Focus:** Developing AI-based network security monitoring solutions and building responsive full-stack dashboards.
 
 ---
-<!-- ABOUT ME SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Data+Science+Student;Machine+Learning+Enthusiast;Freelancer;Problem+Solver" alt="Typing SVG" />
-</div>
 
-<br />
 
 ### 🛠️ Tech Stack & Tools
 
