@@ -71,8 +71,9 @@
           <li>🤝 Open for <b>IT Internships</b> to collaborate and add real value.</li>
         </ul>
       </td>
-      <td>
-        <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif">
+      <td valign="center">
+        <!-- SMOOTH FLOATING ROCKET BOT ANIMATION -->
+        <img src="https://i.postimg.cc/qMRtLgBv/rocket-bot-floating.gif" width="380" alt="Animated Floating Rocket Bot" />
       </td>
     </tr>
   </table>
